@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1:3306
--- Generation Time: Feb 02, 2021 at 01:14 PM
+-- Generation Time: Feb 02, 2021 at 01:17 PM
 -- Server version: 8.0.19
 -- PHP Version: 7.4.5
 
@@ -541,12 +541,12 @@ INSERT INTO `wp_posts` (`ID`, `post_author`, `post_date`, `post_date_gmt`, `post
 (75, 1, '2021-02-02 12:21:10', '0000-00-00 00:00:00', '', 'Auto Draft', '', 'auto-draft', 'open', 'open', '', '', '', '', '2021-02-02 12:21:10', '0000-00-00 00:00:00', '', 0, 'http://test2/?p=75', 0, 'post', '', 0),
 (76, 1, '2021-02-02 12:21:21', '2021-02-02 09:21:21', '<!-- wp:image {\"sizeSlug\":\"large\"} -->\r\n<figure class=\"wp-block-image size-large\"><img src=\"https://avatars.mds.yandex.net/get-zen_doc/3644947/pub_5f6b3f012ac02858cefae551_5f6b5dc842c2f942be29268d/scale_1200\" alt=\"\"/><figcaption>Picture</figcaption></figure>\r\n<!-- /wp:image -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>Youtube videos below (v3):</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<iframe width=\"2144\" height=\"1045\" src=\"https://www.youtube.com/embed/NtYPh5Lh9HA\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/g9EGw7XxlBc\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>', 'Blog post', '', 'inherit', 'closed', 'closed', '', '72-revision-v1', '', '', '2021-02-02 12:21:21', '2021-02-02 09:21:21', '', 72, 'http://test2/72-revision-v1/', 0, 'revision', '', 0),
 (85, 1, '2021-02-02 13:13:40', '0000-00-00 00:00:00', ' ', '', '', 'draft', 'closed', 'closed', '', '', '', '', '2021-02-02 13:13:40', '0000-00-00 00:00:00', '', 0, 'http://test2/?p=85', 1, 'nav_menu_item', '', 0),
-(86, 1, '2021-02-02 13:14:13', '2021-02-02 10:14:13', ' ', '', '', 'publish', 'closed', 'closed', '', '86', '', '', '2021-02-02 13:14:13', '2021-02-02 10:14:13', '', 0, 'http://test2/?p=86', 1, 'nav_menu_item', '', 0),
-(87, 1, '2021-02-02 13:14:13', '2021-02-02 10:14:13', ' ', '', '', 'publish', 'closed', 'closed', '', '87', '', '', '2021-02-02 13:14:13', '2021-02-02 10:14:13', '', 0, 'http://test2/?p=87', 2, 'nav_menu_item', '', 0),
-(88, 1, '2021-02-02 13:14:13', '2021-02-02 10:14:13', ' ', '', '', 'publish', 'closed', 'closed', '', '88', '', '', '2021-02-02 13:14:13', '2021-02-02 10:14:13', '', 0, 'http://test2/?p=88', 3, 'nav_menu_item', '', 0),
-(89, 1, '2021-02-02 13:14:13', '2021-02-02 10:14:13', ' ', '', '', 'publish', 'closed', 'closed', '', '89', '', '', '2021-02-02 13:14:13', '2021-02-02 10:14:13', '', 0, 'http://test2/?p=89', 4, 'nav_menu_item', '', 0),
-(90, 1, '2021-02-02 13:14:13', '2021-02-02 10:14:13', ' ', '', '', 'publish', 'closed', 'closed', '', '90', '', '', '2021-02-02 13:14:13', '2021-02-02 10:14:13', '', 0, 'http://test2/?p=90', 5, 'nav_menu_item', '', 0),
-(91, 1, '2021-02-02 13:14:13', '2021-02-02 10:14:13', ' ', '', '', 'publish', 'closed', 'closed', '', '91', '', '', '2021-02-02 13:14:13', '2021-02-02 10:14:13', '', 0, 'http://test2/?p=91', 6, 'nav_menu_item', '', 0);
+(86, 1, '2021-02-02 13:14:13', '2021-02-02 10:14:13', ' ', '', '', 'publish', 'closed', 'closed', '', '86', '', '', '2021-02-02 13:17:01', '2021-02-02 10:17:01', '', 0, 'http://test2/?p=86', 1, 'nav_menu_item', '', 0),
+(87, 1, '2021-02-02 13:14:13', '2021-02-02 10:14:13', ' ', '', '', 'publish', 'closed', 'closed', '', '87', '', '', '2021-02-02 13:17:01', '2021-02-02 10:17:01', '', 0, 'http://test2/?p=87', 2, 'nav_menu_item', '', 0),
+(88, 1, '2021-02-02 13:14:13', '2021-02-02 10:14:13', ' ', '', '', 'publish', 'closed', 'closed', '', '88', '', '', '2021-02-02 13:17:01', '2021-02-02 10:17:01', '', 0, 'http://test2/?p=88', 4, 'nav_menu_item', '', 0),
+(89, 1, '2021-02-02 13:14:13', '2021-02-02 10:14:13', ' ', '', '', 'publish', 'closed', 'closed', '', '89', '', '', '2021-02-02 13:17:01', '2021-02-02 10:17:01', '', 0, 'http://test2/?p=89', 3, 'nav_menu_item', '', 0),
+(90, 1, '2021-02-02 13:14:13', '2021-02-02 10:14:13', ' ', '', '', 'publish', 'closed', 'closed', '', '90', '', '', '2021-02-02 13:17:01', '2021-02-02 10:17:01', '', 0, 'http://test2/?p=90', 5, 'nav_menu_item', '', 0),
+(91, 1, '2021-02-02 13:14:13', '2021-02-02 10:14:13', ' ', '', '', 'publish', 'closed', 'closed', '', '91', '', '', '2021-02-02 13:17:01', '2021-02-02 10:17:01', '', 0, 'http://test2/?p=91', 6, 'nav_menu_item', '', 0);
 
 -- --------------------------------------------------------
 
@@ -580,7 +580,7 @@ CREATE TABLE `wp_terms` (
 
 INSERT INTO `wp_terms` (`term_id`, `name`, `slug`, `term_group`) VALUES
 (1, 'Uncategorized', 'uncategorized', 0),
-(2, 'Menu I guess', 'menu-i-guess', 0),
+(2, 'Menu', 'menu', 0),
 (3, 'IT', 'it', 0),
 (4, 'Around the world', 'around-the-world', 0);
 
